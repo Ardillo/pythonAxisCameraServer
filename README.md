@@ -6,7 +6,8 @@ To test this program run this command:<br>
 <code>
 telnet localhost 8888
 </code><br>
-This wil start a telnet session on the localhost, port 8888. Then copy past the code below, where "CamX" is the name of the camera.<br>
+This wil start a telnet session on the localhost, port 8888. <br>
+Then copy paste the code below, where "Cam1" is the name of the camera.<br>
 <code>
 GET ?Message=Cam1
 </code><br>
